@@ -5,7 +5,8 @@ Built with Python 3 and PyQt6, it utilizes the powerful Pygments lexical engine 
 
 Key Features
 Universal Syntax Highlighting: Powered by the Pygments engine, featuring an intelligent "guessing" logic that identifies code context regardless of file extension.
-Retro-Modern UI: A pixel-perfect DOS-blue interface with high-contrast bold typography and an authentic block-style cursor (█).Sublime-Inspired Logic: Includes advanced behaviors such as intelligent auto-indentation and "Safe-Save" confirmation dialogs to prevent data loss.Polyglot Capabilities: 
+Retro-Modern UI: A pixel-perfect DOS-blue interface with high-contrast bold typography and an authentic block-style cursor (█).
+Sublime-Inspired Logic: Includes advanced behaviors such as intelligent auto-indentation and "Safe-Save" confirmation dialogs to prevent data loss.Polyglot Capabilities: 
 
 Native support for 500+ languages, including Python, C/C++, Rust, Go, SQL, HTML/CSS, and various Shell scripts.Built-in Runner (F5): Integrated execution environment for Python scripts with persistent terminal output for debugging.Productivity Tools:Real-time line numbering in a dedicated pale-blue sidebar.Current line highlighting for better focus.Discrete DOS-style Search bar (Ctrl+F).Instant UI scaling (Zoom +/-) for accessibility.
 
