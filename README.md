@@ -22,7 +22,12 @@ Encoding Robustness: Full support for UTF-8, Windows-1252, and UTF-16 to ensure 
 
 📦 Installation
 
-Nebula Editor v1.0 is distributed as a standard Windows Installer.Download the NebulaEditor_Setup.exe from the Releases section.Run the installer.(Optional) Check the box "Add to Context Menu" to enable "Open with Nebula Editor" on right-click for any file.⌨️ ShortcutsShortcutActionCtrl + NCreate a new fileCtrl + OOpen an existing fileCtrl + SSave current fileCtrl + FToggle Find/Search barF5Run Python script+/-Increase/Decrease font size
+Nebula Editor v1.0 is distributed as a standard Windows Installer.Download the NebulaEditor.exe from the Releases section.Run the portable.
+
+⌨️ Shortcuts
+
+ShortcutActionCtrl + N Create a new file Ctrl + OOpen an existing file Ctrl + S Save current file Ctrl + F Toggle Find/Search bar F5Run Python script 
++/-Increase/Decrease font size
 
 📧 Contact & Support
 
