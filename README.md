@@ -26,7 +26,7 @@ Nebula Editor v1.0 is distributed as a standard Windows Installer.Download the N
 
 ⌨️ Shortcuts
 
-ShortcutActionCtrl + N Create a new file Ctrl + OOpen an existing file Ctrl + S Save current file Ctrl + F Toggle Find/Search bar F5Run Python script 
+ShortcutAction Ctrl + N Create a new file Ctrl + O Open an existing file Ctrl + S Save current file Ctrl + F Toggle Find/Search bar F5Run Python script 
 +/-Increase/Decrease font size
 
 📧 Contact & Support
@@ -35,4 +35,4 @@ Developed and maintained by: Nebula Scripts, aplicatiipython@outlook.com
 Nebula Editor - Crafting code in the blue zone.
 
 💡 License
-This project is licensed under the Creative Commons (CC BY-NC-ND 4.0) - see the LICENSE file for details.
+See the LICENSE file (EULA) for details.
