@@ -1,5 +1,7 @@
 🟦 Nebula Editor v1.0.
 MS-DOS inspired source code editor for the modern era.Nebula Editor is a high-performance, lightweight text and code editor that bridges the gap between 1990s aesthetics and contemporary development needs. 
+<img width="1099" height="686" alt="2026-05-14 22_47_15-nebula_editor py - Nebula Editor - Visual Studio Code" src="https://github.com/user-attachments/assets/209335f7-0ba7-4b2b-8604-8d149feb6132" />
+
 
 Built with Python 3 and PyQt6, it utilizes the powerful Pygments lexical engine to provide robust syntax highlighting for hundreds of programming languages.🚀 
 
