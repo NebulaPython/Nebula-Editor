@@ -22,7 +22,7 @@ Encoding Robustness: Full support for UTF-8, Windows-1252, and UTF-16 to ensure 
 
 📦 Installation
 
-Nebula Editor v1.0 is distributed as a standard Windows Installer.Download the NebulaEditor.exe from the Releases section.Run the portable.
+Nebula Editor v1.0 is distributed as a portable executable. Download the NebulaEditor.zip from the Releases section.Run the portable.
 
 ⌨️ Shortcuts
 
