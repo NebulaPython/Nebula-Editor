@@ -35,4 +35,5 @@ Developed and maintained by: Nebula Scripts, aplicatiipython@outlook.com
 Nebula Editor - Crafting code in the blue zone.
 
 💡 License
+
 See the LICENSE file (EULA) for details.
